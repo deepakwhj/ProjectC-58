@@ -1,0 +1,17 @@
+body{
+  background: linear-gradient( #FFFF00 0%, #ff0000 100% );
+    background-repeat :no-repeat;
+  text-align:center;
+}
+h1{
+  text-shadow:2px 2px #F8BBD0;
+  font-size:20px;
+}
+#sectionwrite{
+  padding:20px;
+  font-size:18px;
+  text-align:center;
+}
+#ironman{
+  border-radius:20%;
+}
